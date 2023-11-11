@@ -6,7 +6,7 @@
     <groupId>com.vaadin.componentfactory</groupId>
     <artifactId>anchor-nav-demo</artifactId>
     <packaging>war</packaging>
-    <version>gamma4_2304dev_bubblet</version>
+    <version>jamun_24</version>
 
     <name>Component Factory Anchor Nav add-on Demo</name>
 
